@@ -1,0 +1,18 @@
+.markdown hr {
+  @apply border-transparent;
+}
+
+.markdown p,
+.markdown li {
+  @apply text-lg dark:text-white text-opacity-60;
+}
+
+.markdown strong,
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+  @apply block pb-2 pt-5 text-xl font-semibold dark:text-white text-opacity-100;
+}
