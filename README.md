@@ -111,7 +111,7 @@ Throughout the project, we valued each other's opinions, availability, and timel
 
 ## Deployment Diagram
 
-![image](https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/DeploymentDiagramLMS.png)
+![image](https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/Deployment%20Diagram%20Of%20LMS.png)
 
 ## Deliverables and Weekly Scrum Report
 
