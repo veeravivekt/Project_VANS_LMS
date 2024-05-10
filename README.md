@@ -222,7 +222,7 @@ Burndown Chart Sprint 4
 
 ## Team Members
 
-1. ***S***oumith Reddy Podduturi 
-2. ***N***ikhath Firdose
-3. ***A***lekhya Vaida
-4. ***V***eera Vivek Telagani
+1. ***V***eera Vivek Telagani
+2. ***A***lekhya Vaida
+3. ***N***ikhath Firdose
+4. ***S***oumith Reddy Podduturi 
