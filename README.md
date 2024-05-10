@@ -116,6 +116,8 @@ Throughout the project, we valued each other's opinions, availability, and timel
 ## Deliverables and Weekly Scrum Report
 
 > Detailed Sprint task distribution in our [Sprint Chart](https://docs.google.com/spreadsheets/d/1SPtBPZjJfs1aljyR0dSkWJUQrc0ujuTY2ZukZDJz5Ow/edit#gid=1232063613)
+
+
 > [Team Journal](https://docs.google.com/document/d/1PobRP_-0e5MNLPLzWF5RvtG2FytLsy_D0lys2sY1h7U/edit?usp=sharing)
 
 <details open>
