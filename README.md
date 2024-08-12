@@ -143,7 +143,7 @@ Sprint 1 (13 Mar to 26 Mar)
 Burndown Chart Sprint 1
 </summary> <br />
 
- <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/S1.png"/></a>
+ <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/Sprint1.png"/></a>
 
 </details>
 
