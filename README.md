@@ -168,7 +168,7 @@ Sprint 2 (27 Mar to 10 Apr)
 Burndown Chart Sprint 2
 </summary> <br />
 
- <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/S2.png"/></a>
+ <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/Sprint2.png"/></a>
 
 </details>
 
@@ -218,7 +218,7 @@ Sprint 4 (25 Apr to 8 May)
 Burndown Chart Sprint 4
 </summary> <br />
 
- <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/S4.png"/></a>
+ <img src="https://raw.githubusercontent.com/veeravivekt/lms-nextjs-frontend/main/public/Sprint4.png"/></a>
 
 </details>
 
